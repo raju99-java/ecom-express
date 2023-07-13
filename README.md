@@ -1,4 +1,4 @@
-# MERN Ecommerce Project with Stripe Payment
+# MERN Ecommerce Project 
 
 There are 3 Folders 
 
